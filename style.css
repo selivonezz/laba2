@@ -1,0 +1,40 @@
+body 
+{
+  color: #000; 
+  background: #f3f0f5 url('https://phonoteka.org/uploads/posts/2021-04/1619723076_8-phonoteka_org-p-fon-kosmos-poluprozrachnii-13.png'); 
+  word-wrap: break-word; 
+  font-size: 90%;
+  font-family: Verdana, Arial, Sans-Serif;
+  text-align: center
+}
+
+p
+{
+  text-align: center
+}
+
+ul {text-align: center}
+li {text-align: center}
+
+h1 
+{
+  font-family: Gabriola;
+  font-size: xx-large
+}
+
+h3 
+{
+  font-family: Gabriola;
+  font-size: xx-large
+}
+
+.test
+{
+  width: 100%;
+  text-align:  center
+}
+.center {display: inline-block}
+
+.dark {text-shadow: rgb(28, 46, 153) 0 0 10px;}
+
+.grey {text-shadow: rgb(85, 82, 79) 0 0 10px}
